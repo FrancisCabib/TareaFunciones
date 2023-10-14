@@ -1,0 +1,32 @@
+body{
+    display: flex;
+   
+}
+
+
+.colorDiv {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    margin: 10px;
+}
+
+#blue {
+    background-color: blue;
+}
+
+#red {
+    background-color: red;
+}
+
+#green {
+    background-color: green;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#key {
+    background-color: white;
+}
